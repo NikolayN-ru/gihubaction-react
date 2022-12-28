@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MacBook-Pro-Nikolay",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/RXNDD7XrLXUZot3ovt0rOd20O2bbsYUBuRLj8GZjm6RfTMPvlF",
+  "gitHubUrl": "https://github.com/NikolayN-ru/gihubaction-react",
+  "workFolder": "_work"
+}

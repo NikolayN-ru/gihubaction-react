@@ -1,0 +1,117 @@
+[2022-12-28 18:04:41Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'Credentials': '/Users/nn/Desktop/projects/6/actions-runner/.credentials'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'Runner': '/Users/nn/Desktop/projects/6/actions-runner/.runner'
+[2022-12-28 18:04:41Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-12-28 18:04:41Z INFO Listener] RuntimeInformation: Darwin 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:03:51 PST 2022; root:xnu-8792.61.2~4/RELEASE_ARM64_T6000.
+[2022-12-28 18:04:41Z INFO Listener] Version: 2.299.1
+[2022-12-28 18:04:41Z INFO Listener] Commit: 2e44f985bd9bf890dc061e654f6a850c6f1249cf
+[2022-12-28 18:04:41Z INFO Listener] Culture: ru-RU
+[2022-12-28 18:04:41Z INFO Listener] UI Culture: ru-RU
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO Listener] Validating directory permissions for: '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO CommandLineParser] Parse
+[2022-12-28 18:04:41Z INFO CommandLineParser] Parsing 1 args
+[2022-12-28 18:04:41Z INFO CommandLineParser] parsing argument
+[2022-12-28 18:04:41Z INFO CommandLineParser] HasArgs: False
+[2022-12-28 18:04:41Z INFO CommandLineParser] Adding Command: run
+[2022-12-28 18:04:41Z INFO Listener] Arguments parsed
+[2022-12-28 18:04:41Z INFO Runner] ExecuteCommand
+[2022-12-28 18:04:41Z INFO ConfigurationStore] currentAssemblyLocation: /Users/nn/Desktop/projects/6/actions-runner/bin/Runner.Listener.dll
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] binPath: /Users/nn/Desktop/projects/6/actions-runner/bin
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] RootFolder: /Users/nn/Desktop/projects/6/actions-runner
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'Runner': '/Users/nn/Desktop/projects/6/actions-runner/.runner'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] ConfigFilePath: /Users/nn/Desktop/projects/6/actions-runner/.runner
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'Credentials': '/Users/nn/Desktop/projects/6/actions-runner/.credentials'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] CredFilePath: /Users/nn/Desktop/projects/6/actions-runner/.credentials
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/nn/Desktop/projects/6/actions-runner/.credentials_migrated'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] MigratedCredFilePath: /Users/nn/Desktop/projects/6/actions-runner/.credentials_migrated
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'Service': '/Users/nn/Desktop/projects/6/actions-runner/.service'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/nn/Desktop/projects/6/actions-runner/.service
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'help': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'version': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'check': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Command 'configure': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Command 'remove': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-12-28 18:04:41Z INFO ConfigurationManager] LoadSettings
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured()
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured: True
+[2022-12-28 18:04:41Z INFO ConfigurationManager] Is configured: True
+[2022-12-28 18:04:41Z INFO ConfigurationStore] Read setting file: 305 chars
+[2022-12-28 18:04:41Z INFO ConfigurationManager] Settings Loaded
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-12-28 18:04:41Z INFO CommandSettings] Command 'run': 'True'
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured()
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured: True
+[2022-12-28 18:04:41Z INFO ConfigurationManager] Is configured: True
+[2022-12-28 18:04:41Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-12-28 18:04:41Z INFO Runner] Set runner startup type - Manual
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'once': 'False'
+[2022-12-28 18:04:41Z INFO CommandSettings] Flag 'once': 'False'
+[2022-12-28 18:04:41Z INFO Runner] RunAsync
+[2022-12-28 18:04:41Z INFO ConfigurationManager] LoadSettings
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured()
+[2022-12-28 18:04:41Z INFO ConfigurationStore] IsConfigured: True
+[2022-12-28 18:04:41Z INFO ConfigurationManager] Is configured: True
+[2022-12-28 18:04:41Z INFO ConfigurationManager] Settings Loaded
+[2022-12-28 18:04:41Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "MacBook-Pro-Nikolay",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/RXNDD7XrLXUZot3ovt0rOd20O2bbsYUBuRLj8GZjm6RfTMPvlF",
+  "GitHubUrl": "https://github.com/NikolayN-ru/gihubaction-react",
+  "WorkFolder": "_work"
+}
+[2022-12-28 18:04:41Z INFO MessageListener] Loading Credentials
+[2022-12-28 18:04:41Z INFO ConfigurationStore] HasCredentials()
+[2022-12-28 18:04:41Z INFO ConfigurationStore] stored True
+[2022-12-28 18:04:41Z INFO CredentialManager] GetCredentialProvider
+[2022-12-28 18:04:41Z INFO CredentialManager] Creating type OAuth
+[2022-12-28 18:04:41Z INFO CredentialManager] Creating credential type: OAuth
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Bin': '/Users/nn/Desktop/projects/6/actions-runner/bin'
+[2022-12-28 18:04:41Z INFO HostContext] Well known directory 'Root': '/Users/nn/Desktop/projects/6/actions-runner'
+[2022-12-28 18:04:41Z INFO HostContext] Well known config file 'RSACredentials': '/Users/nn/Desktop/projects/6/actions-runner/.credentials_rsaparams'
+[2022-12-28 18:04:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/nn/Desktop/projects/6/actions-runner/.credentials_rsaparams
+[2022-12-28 18:04:41Z INFO MessageListener] Attempt to create session.
+[2022-12-28 18:04:41Z INFO MessageListener] Connecting to the Runner Server...
+[2022-12-28 18:04:41Z INFO RunnerServer] EstablishVssConnection
+[2022-12-28 18:04:41Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-12-28 18:04:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-12-28 18:04:41Z INFO RunnerServer] EstablishVssConnection
+[2022-12-28 18:04:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-12-28 18:04:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-12-28 18:04:41Z INFO RunnerServer] EstablishVssConnection
+[2022-12-28 18:04:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-12-28 18:04:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-12-28 18:04:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-12-28 18:04:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-12-28 18:04:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-12-28 18:04:42Z INFO MessageListener] VssConnection created
+[2022-12-28 18:04:42Z INFO Terminal] WRITE LINE: 
+[2022-12-28 18:04:42Z INFO Terminal] WRITE LINE: 
+[2022-12-28 18:04:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/nn/Desktop/projects/6/actions-runner/.credentials_rsaparams
+[2022-12-28 18:04:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/nn/Desktop/projects/6/actions-runner/.credentials_rsaparams
+[2022-12-28 18:04:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-12-28 18:04:43Z INFO MessageListener] Session created.
+[2022-12-28 18:04:43Z INFO Terminal] WRITE LINE: Current runner version: '2.299.1'
+[2022-12-28 18:04:43Z INFO Terminal] WRITE LINE: 2022-12-28 18:04:43Z: Listening for Jobs
+[2022-12-28 18:04:43Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
