@@ -36,11 +36,11 @@ jobs:
       - name: Lint Application
         run: npm run lint
   build:
-  needs: [lint, test]
-  strategy:
-    matrix:
-      node-vevrsion: [14, 16]
-      os: [ubuntu-latest, windows-latest]
+    needs: [lint, test]
+    strategy:
+      matrix:
+        node-vevrsion: [14, 16]
+        os: [ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os}}
     needs: lint-work
     steps:
