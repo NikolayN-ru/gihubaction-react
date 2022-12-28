@@ -1,13 +1,25 @@
-name: Deploy React App
-on:
-  push:
-    branches:
-      - main
+name: Build
+on: [push, workflow_dispatch]
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Get build project
+      - name: Get project code
+        uses: actions/checkout@v3
+      - name: Install Deps
+        run: npm ci
+      - name: Build project
+        run: npm run build
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: build-files
+          path: build
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get build artifacts
         uses: actions/download-artifact@v3
         with:
           name: build-files
